@@ -1,0 +1,154 @@
+---
+version: 3
+created_by: osilkin
+domain: cat-shelter
+seed_examples:
+  - context: |
+      Alley Cat Allies recommends that feral cat colonies have proper protection from inclement weather.
+      Following are detailed instructions needed to build a feral cat shelter. These building plans are
+      recommended for use throughout the United States. For extremely harsh, cold, and wet climates,
+      insulation (as described) is advised. Other types of shelters, such as dog igloos, can be used in less
+      harsh climates. Go to www.alleycat.org/BuildaShelter for additional shelter ideas.
+    questions_and_answers:
+      - question: |
+          What is a feral cat shelter?
+        answer: |
+          A feral cat shelter is a structure designed to provide protection from inclement weather for feral cat colonies.
+      - question: |
+          What is the mission of Alley Cat Allies?
+        answer: |
+          Alley Cat Allies is a nonprofit organization dedicated to promoting the humane treatment of feral and free-roaming cats.
+      - question: |
+          What types of shelters are recommended for feral cat colonies?
+        answer: |
+          Dog igloos can be used in less harsh climates.
+          For extremely harsh, cold, and wet climates, insulation is advised.
+  - context: |
+      Things to consider before starting your project:
+      These will help you determine what you need to buy and
+      how much work will be involved, and also provide a few
+      helpful hints.
+      - How many cats do you need to house? This number
+        determines how many shelters to build. Keep in mind that
+        not all cats are likely to use the shelter, or at least not all at
+        the same time. This shelter should probably house no more
+        than five to seven cats at once. You can adjust this plan
+        to make a larger shelter, or build more than one shelter
+        as needed.
+    questions_and_answers:
+      - question: |
+          How many cats can a feral cat shelter house?
+        answer: |
+          A feral cat shelter should probably house no more
+          than five to seven cats at once.
+      - question: |
+          What is the best way to determine how many shelters to build?
+        answer: |
+          The number of cats you need to house determines how many shelters to build.
+      - question: |
+          What materials are needed to build a feral cat shelter?
+        answer: |
+          One 4-ft. x 1/2-in x 8-ft. sheet of exterior grade plywood
+          or waferboard, one 4-ft. x 8-ft. sheet interior paneling or thin plywood,
+          one package roofing shingles or enough to cover 8-sq. ft. roof,
+          two 2-in. x 3-in. x 6-ft. untreated lumber,
+          Linoleum or other floor tiles (to cover 6-sq. ft. floor),
+          One quart exterior house paint, two medium hinges, fifty 2-in. flat head wood screws or grippers,
+          Four to nine bricks for foundation, small roofing nails, fiberglass insulation.
+  - context: |
+      1. Cut wood. For easy assembly, cut all wood first, then
+      assemble the shelter. Some pieces may need adjustment
+      after cutting.
+      2. Put side wall A in place on the left of the base and screw
+      front wall and left side wall together using one 17-in. corner
+      post.
+      3. Position side wall B on the right and attach to front wall
+      using other 17-in. corner post.
+      4. Position back wall and attach to both side walls using two
+      11-in. corner posts. Note: Corner posts should rest on
+      top of the base, as should the front, back, and side walls.
+      All posts should be inside of the front, back, and side walls.
+    questions_and_answers:
+      - question: |
+          How to assemble a feral cat shelter?
+        answer: |
+          Cut wood. For easy assembly, cut all wood first, then
+          assemble the shelter. Some pieces may need adjustment
+          after cutting.
+      - question: |
+          How to attach the walls to the base?
+        answer: |
+          Put side wall A in place on the left of the base and screw
+          front wall and left side wall together using one 17-in. corner
+          post. Position side wall B on the right and attach to front wall
+          using other 17-in. corner post. Position back wall and attach to both side walls using two
+          11-in. corner posts.
+      - question: |
+          Where should side wall B be placed?
+        answer: |
+          Position side wall B on the right and attach to front wall
+          using other 17-in. corner post.
+  - context: |
+      Note: You may also cover the interior underside of the roof
+      with fiberglass or plastic foam insulation, but be sure to cover
+      it with plastic or wood. Foam needs to be covered to hold it in
+      place, and uncovered fiberglass will harm cats. You can insulate
+      the shelter with strong plastic to keep out wind, rain, and cold.
+      Leave a small opening for the cats to enter. A flap can be placed
+      over the entrance for added protection.
+    questions_and_answers:
+      - question: |
+          What is the best way to insulate a feral cat shelter?
+        answer: |
+          You can insulate the shelter with strong plastic to keep out wind, rain, and cold.
+      - question: |
+          What is the best way to leave a small opening for the cats to enter?
+        answer: |
+          Leave a small opening for the cats to enter. A flap can be placed
+          over the entrance for added protection.
+      - question: |
+          What materials are needed to build a feral cat shelter?
+        answer: |
+          One 4-ft. x 1/2-in x 8-ft. sheet of exterior grade plywood
+          or waferboard, one 4-ft. x 8-ft. sheet interior paneling or thin plywood,
+          one package roofing shingles or enough to cover 8-sq. ft. roof,
+          two 2-in. x 3-in. x 6-ft. untreated lumber,
+          Linoleum or other floor tiles (to cover 6-sq. ft. floor),
+          One quart exterior house paint, two medium hinges, fifty 2-in. flat head wood screws or grippers,
+  - context: |
+      Materials Needed
+      • One 4-ft. x 1/2-in x 8-ft. sheet of exterior grade plywood
+      or waferboard
+      • One 4-ft. x 8-ft. sheet interior paneling or thin plywood
+      • One package roofing shingles or enough to cover
+      8-sq. ft. roof
+      • Two 2-in. x 3-in. x 6-ft. untreated lumber
+      • Linoleum or other floor tiles (to cover 6-sq. ft. floor)
+      • One quart exterior house paint
+      • Two medium hinges (“T” or gate hinges)
+      • Fifty 2-in. flat head wood screws or grippers
+      • Four to nine bricks for foundation
+      • Small roofing nails (approximately 15)
+      • Fiberglass insulation (1 roll, or enough to cover 14-20 sq. ft.)
+    questions_and_answers:
+      - question: |
+          How many cats can a feral cat shelter house?
+        answer: |
+          A feral cat shelter should probably house no more
+          than five to seven cats at once.
+      - question: |
+          What is the best way to determine how many shelters to build?
+        answer: |
+          The number of cats you need to house determines how many shelters to build.
+      - question: |
+          What materials are needed to build a feral cat shelter?
+        answer: |
+          One 4-ft. x 1/2-in x 8-ft. sheet of exterior grade plywood
+          or waferboard, one 4-ft. x 8-ft. sheet interior paneling or thin plywood,
+document_outline: |
+  Details on building a feral cat shelter.
+document:
+  repo: https://github.com/RobotSail/cat-shelter.git
+  commit: be034679e391cfaf3062e5b82b4405a647e2bf37
+  patterns:
+    - cat-shelter.pdf
